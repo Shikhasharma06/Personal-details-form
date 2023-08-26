@@ -12,3 +12,4 @@ input Date here i have used for to take the input in date.
 ![Screenshot_6](https://github.com/Shikhasharma06/Personal-details-form/assets/135316685/e82c2ab0-5968-4604-aa06-842ef85cb4c6)
 <textarea> tag  here defines a multi-line text input control.
 The <input type="submit"> defines a submit button 
+https://shikhasharma06.github.io/Personal-details-form/Personal.html
